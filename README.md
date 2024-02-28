@@ -2,8 +2,13 @@
 videoRanking
 
 
-to run
+to run, in termial:
 
-in termial:
 npm install
+
 node server.js
+
+
+
+
+make sure that you have node installed on your computer
