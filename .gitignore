@@ -1,7 +1,7 @@
 node_modules
 .DS_Store
-vid0.mp4
-vid1.mp4
-vid2.mp4
-vid3.mp4
-vid4.mp4
+public/vid0.mp4
+public/vid1.mp4
+public/vid2.mp4
+public/vid3.mp4
+public/vid4.mp4

@@ -60,6 +60,7 @@ async function sendDataToServer(currentVideo, currentFeedback) {
         video: currentVideo,
         feedback: currentFeedback
     };
+    //
 
     try {
         const response = await fetch('http://localhost:3000/submit-feedback', {
